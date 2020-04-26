@@ -1,0 +1,11 @@
+- name: C++
+  percentage: 90
+  color: dark
+
+- name: Python
+  percentage: 80
+  color: dark
+
+- name: Embedded & Electronics
+  percentage: 95
+  color: dark

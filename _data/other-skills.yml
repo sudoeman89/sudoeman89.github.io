@@ -1,0 +1,13 @@
+- name: Creatividad
+  percentage: 98
+  color: info
+
+- name: AGILE/SCRUM
+  percentage: 95
+  color: info
+
+- name: Innovation Leadership
+  percentage: 90
+  color: info
+
+  
