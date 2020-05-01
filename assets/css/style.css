@@ -27,6 +27,11 @@
 
 .cls-14 { fill: #7d6aa5; }
 
+/* text justify */
+.page__content {
+  text-align: justify;
+}
+
 /* animations */
 .wheel { animation: wheel-rotate 6s ease infinite; transform-origin: center; transform-box: fill-box; }
 
